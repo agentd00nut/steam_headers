@@ -1,0 +1,13 @@
+{
+  "name": "steam_headers",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "steam-user": "^3.0.0"
+  },
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agentd00nut/steam_headers.git"
+  }
+}
